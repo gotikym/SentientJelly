@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1ea6a984b7c60941be53de705660770, type: 3}
+  m_Name: BorderFactory
+  m_EditorClassIdentifier: 
+  _bicolor1: {fileID: -7957620297945123575, guid: 3e76089d90e81984db30b65d7e3e5e8f, type: 3}
+  _bicolor2: {fileID: 8987315873867444423, guid: fac3faa1b7be5094aafdce4481016e08, type: 3}
+  _bicolor3: {fileID: -3858706486739992035, guid: 1f5c3b3b4b61f924dbbbd7bafb27d502, type: 3}
+  _bicolor4: {fileID: -6603203997922866942, guid: b57a249865b64a841ae8471a478342f5, type: 3}

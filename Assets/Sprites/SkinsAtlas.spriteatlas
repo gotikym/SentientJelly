@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SkinsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 62f1aac3ee3500245a1b6cfa663ea9ab, type: 3}
+    - {fileID: 2800000, guid: a74447920e2956643bd3e1d8f895be73, type: 3}
+    - {fileID: 2800000, guid: e5e1765e857a0894dafdd6de3825e894, type: 3}
+    - {fileID: 2800000, guid: 11b6079a9d0edc5428a5054d2b80e262, type: 3}
+    - {fileID: 2800000, guid: 226abff5f9d75e0458c486efcc89fc07, type: 3}
+    - {fileID: 2800000, guid: f409cbce19409434e876e0be019b8feb, type: 3}
+    - {fileID: 2800000, guid: f583f30b365d6914891fd617c663b5bc, type: 3}
+    - {fileID: 2800000, guid: 8a476dba9d61aaf4185c6884e2971634, type: 3}
+    - {fileID: 2800000, guid: dd5a9c572d5710f48bbdf6a4633b113d, type: 3}
+    - {fileID: 2800000, guid: 4be45ebc7bf1176489fba126cf79a652, type: 3}
+    - {fileID: 2800000, guid: a092cd44185a8ec4893b27ba523bc32f, type: 3}
+    - {fileID: 2800000, guid: 411a4b9eadfd9034383ddaa1631bd364, type: 3}
+    - {fileID: 2800000, guid: 6c91749f83c233b4fa51a1fc32498957, type: 3}
+    - {fileID: 2800000, guid: 9ceb85d1e5084db4cb16b56870456c17, type: 3}
+    - {fileID: 2800000, guid: 508a38178b2f46147bef9ef65c9284cb, type: 3}
+    - {fileID: 2800000, guid: 58952a43e3d7bbb4d8576f9909afc492, type: 3}
+    - {fileID: 2800000, guid: 367b23ee4669ed64886891ba4922ec05, type: 3}
+    - {fileID: 2800000, guid: 2536f092c95b7804eb9a7b59b04d2a5f, type: 3}
+    - {fileID: 2800000, guid: f029aa880f37a1f4fa272da2d270ef4a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 9ceb85d1e5084db4cb16b56870456c17: 21300000
+    - 2536f092c95b7804eb9a7b59b04d2a5f: 21300000
+    - a74447920e2956643bd3e1d8f895be73: 21300000
+    - 58952a43e3d7bbb4d8576f9909afc492: 21300000
+    - 62f1aac3ee3500245a1b6cfa663ea9ab: 21300000
+    - a092cd44185a8ec4893b27ba523bc32f: 21300000
+    - 226abff5f9d75e0458c486efcc89fc07: 21300000
+    - 508a38178b2f46147bef9ef65c9284cb: 21300000
+    - dd5a9c572d5710f48bbdf6a4633b113d: 21300000
+    - f029aa880f37a1f4fa272da2d270ef4a: 21300000
+    - 11b6079a9d0edc5428a5054d2b80e262: 21300000
+    - 8a476dba9d61aaf4185c6884e2971634: 21300000
+    - f583f30b365d6914891fd617c663b5bc: 21300000
+    - 4be45ebc7bf1176489fba126cf79a652: 21300000
+    - e5e1765e857a0894dafdd6de3825e894: 21300000
+    - 411a4b9eadfd9034383ddaa1631bd364: 21300000
+    - f409cbce19409434e876e0be019b8feb: 21300000
+    - 367b23ee4669ed64886891ba4922ec05: 21300000
+    - 6c91749f83c233b4fa51a1fc32498957: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9ceb85d1e5084db4cb16b56870456c17, type: 3}
+  - {fileID: 21300000, guid: 2536f092c95b7804eb9a7b59b04d2a5f, type: 3}
+  - {fileID: 21300000, guid: a74447920e2956643bd3e1d8f895be73, type: 3}
+  - {fileID: 21300000, guid: 58952a43e3d7bbb4d8576f9909afc492, type: 3}
+  - {fileID: 21300000, guid: 62f1aac3ee3500245a1b6cfa663ea9ab, type: 3}
+  - {fileID: 21300000, guid: a092cd44185a8ec4893b27ba523bc32f, type: 3}
+  - {fileID: 21300000, guid: 226abff5f9d75e0458c486efcc89fc07, type: 3}
+  - {fileID: 21300000, guid: 508a38178b2f46147bef9ef65c9284cb, type: 3}
+  - {fileID: 21300000, guid: dd5a9c572d5710f48bbdf6a4633b113d, type: 3}
+  - {fileID: 21300000, guid: f029aa880f37a1f4fa272da2d270ef4a, type: 3}
+  - {fileID: 21300000, guid: 11b6079a9d0edc5428a5054d2b80e262, type: 3}
+  - {fileID: 21300000, guid: 8a476dba9d61aaf4185c6884e2971634, type: 3}
+  - {fileID: 21300000, guid: f583f30b365d6914891fd617c663b5bc, type: 3}
+  - {fileID: 21300000, guid: 4be45ebc7bf1176489fba126cf79a652, type: 3}
+  - {fileID: 21300000, guid: e5e1765e857a0894dafdd6de3825e894, type: 3}
+  - {fileID: 21300000, guid: 411a4b9eadfd9034383ddaa1631bd364, type: 3}
+  - {fileID: 21300000, guid: f409cbce19409434e876e0be019b8feb, type: 3}
+  - {fileID: 21300000, guid: 367b23ee4669ed64886891ba4922ec05, type: 3}
+  - {fileID: 21300000, guid: 6c91749f83c233b4fa51a1fc32498957, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - police cap
+  - SkinBorder3
+  - wizzardHat
+  - SkinBorder1
+  - WorkHelmet
+  - JesterHat
+  - BeerCap
+  - ShibaHat
+  - GraduationCap
+  - SkinBorder4
+  - Sombrero
+  - FBICap
+  - croneHat
+  - HuskyHat
+  - UncleSamHat
+  - MagicHat
+  - CookingHat
+  - SkinBorder2
+  - NewYearHat
+  m_RenderDataMap: {}
+  m_Tag: SkinsAtlas
+  m_IsVariant: 0

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4877c35e24133184d96ddfab7c7448ce, type: 3}
+  m_Name: Bicolor1Border
+  m_EditorClassIdentifier: 
+  <Model>k__BackingField: {fileID: 6040801430569203611, guid: 3e76089d90e81984db30b65d7e3e5e8f, type: 3}
+  <Image>k__BackingField: {fileID: 21300000, guid: 58952a43e3d7bbb4d8576f9909afc492, type: 3}
+  <Price>k__BackingField: 333
+  <ScinType>k__BackingField: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4174411f1bb9204285d55f136c18b6d, type: 3}
+  m_Name: HatFactory
+  m_EditorClassIdentifier: 
+  _newYearsHat: {fileID: 997673078790259929, guid: 7b234008e1fe2ce4480ac7c38fcc731e, type: 3}
+  _wizardHat: {fileID: 3726049047322179547, guid: 2dfee8130d8704f42a47c5a0d45e346f, type: 3}
+  _croneHat: {fileID: -6686291234327864790, guid: 04cc24cacf1be994c9818726e1e59495, type: 3}
+  _cookingHat: {fileID: 8487956846334691199, guid: 08307308bf0a9d94ab8a6ae6f25fd82a, type: 3}
+  _magicHat: {fileID: 5573836737012487440, guid: 7e80568e3f1a6f14ea3e06cfcda3831b, type: 3}
+  _policeCap: {fileID: 8219622902901203570, guid: b8b0262e6ea4362438a33ef2be52db11, type: 3}
+  _sombrero: {fileID: 3225759951106834314, guid: 9316477bebd6652478e396d7d56662e9, type: 3}
+  _uncleSamHat: {fileID: 2302089672631877779, guid: 2ee3d39797b16964f89762806b2c2e61, type: 3}
+  _workHelmet: {fileID: 4532434678126268586, guid: 35c98a4fbea4fa5489f666173a250b87, type: 3}
+  _fbiCap: {fileID: 5597685613107825624, guid: a59d3832c114c514da7b3ae7a8e9ff30, type: 3}
+  _beerCap: {fileID: 6813993003377956091, guid: 4e9e4938ea65a0b4a826848b80bcb9f7, type: 3}
+  _shiba: {fileID: 1623829050718340895, guid: 96cde6c682aced441ad94c14c827981b, type: 3}
+  _husky: {fileID: 9096204616192534037, guid: d77302c9adc056741bb68b998d969664, type: 3}
+  _graduationCap: {fileID: 3196188584638261189, guid: 823cd95d66260a64cb3fc04afd219438, type: 3}
+  _jesterHat: {fileID: 8535121165851001428, guid: 4f72c5b47a2975545a30e613722f2f4b, type: 3}
